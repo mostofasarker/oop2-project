@@ -1,0 +1,38 @@
+C:\Users\khali\Desktop\OnlineBillingSystem\bin\Debug\OnlineBillingSystem.exe.config
+C:\Users\khali\Desktop\OnlineBillingSystem\bin\Debug\OnlineBillingSystem.exe
+C:\Users\khali\Desktop\OnlineBillingSystem\bin\Debug\OnlineBillingSystem.pdb
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.csprojAssemblyReference.cache
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.Home.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.Login.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.Properties.Resources.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.csproj.GenerateResource.cache
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.exe
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.pdb
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.CreateAccount.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.SP_CAccount.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.C_CAccount.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.ALP.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.CLP.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.SPLP.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.SearchSPPage.resources
+C:\Users\khali\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.SearchCPage.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\bin\Debug\OnlineBillingSystem.exe.config
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.exe
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.pdb
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\bin\Debug\OnlineBillingSystem.exe
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\bin\Debug\OnlineBillingSystem.pdb
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.csprojAssemblyReference.cache
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.ALP.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.CLP.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.C_CAccount.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.Home.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.Login.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.Properties.Resources.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.CreateAccount.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.SearchCPage.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.SearchSPPage.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.SPLP.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.SP_CAccount.resources
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.csproj.GenerateResource.cache
+C:\Users\Sadi Mostofa\Desktop\OnlineBillingSystem\obj\Debug\OnlineBillingSystem.csproj.CoreCompileInputs.cache
